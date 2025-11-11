@@ -7,7 +7,7 @@
 ## 📌 Quick Overview
 
 - **Course:** Java Fundamentals (self-paced)  
-- **Owner:** Bridgelabz - Training Batch 2415500271  
+- **Owner:** Bridgelabz - Training Batch 2415500383  
 - **Focus:** Core Java, OOP, Collections, JDBC, Git, and practical projects  
 
 ---
