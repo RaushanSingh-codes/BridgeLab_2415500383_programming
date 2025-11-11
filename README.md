@@ -65,6 +65,16 @@
 
 ---
 
+## Git Commands Practiced
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch
+git checkout -b new_branch
+git merge new_branch
+git push origin main
 
 
 
