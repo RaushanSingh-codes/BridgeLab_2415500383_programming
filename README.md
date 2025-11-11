@@ -76,25 +76,5 @@ git checkout -b new_branch
 git merge new_branch
 git push origin main
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+---
