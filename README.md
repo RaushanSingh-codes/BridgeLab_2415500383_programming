@@ -39,6 +39,8 @@ This repository contains notes, exercises, and projects created during the Java 
 ---
 
 ## Git Commands Practiced
+
+```bash
 git init
 git add .
 git commit -m "Initial commit"
@@ -46,9 +48,6 @@ git branch
 git checkout -b new_branch
 git merge new_branch
 git push origin main
-
-yaml
-Copy code
 
 ---
 
