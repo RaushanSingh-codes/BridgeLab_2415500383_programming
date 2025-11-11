@@ -51,20 +51,4 @@ git push origin main
 
 ---
 
-## Tools & Technologies
-- Java 17
-- Git Bash
-- VS Code / IntelliJ IDEA
-- MySQL
-- Command Line Interface (CLI)
-
----
-
-## Future Learning Goals
-- Practice more on multithreading and concurrency.
-- Build a complete CRUD project using JDBC.
-- Explore Spring Boot for backend development.
-
----
-
-> This README file serves as a structured summary of my Java learning journey with Bridgelabz.
+y Java learning journey with Bridgelabz.
