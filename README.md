@@ -1,4 +1,4 @@
-# 🌉 Bridgelabz — Java Learning Log (Fancy Edition)
+# 🌉 Bridgelabz — Java Learning Log 
 
 > _A clean, decorated learning log capturing milestones, notes, and tiny code snippets — built to be readable, printable, and satisfying._
 
